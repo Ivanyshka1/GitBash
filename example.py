@@ -1,2 +1,2 @@
 def get_numbers():
-    return [1, 2, 3, 4, 5] 
+    return [x for x in range(1, 6)]
