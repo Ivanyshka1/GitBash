@@ -1,5 +1,2 @@
 def get_numbers():
-	result = []
-	for i in range(1, 6):
-		result.append(i)
-	return result 
+    return [1, 2, 3, 4, 5] 
